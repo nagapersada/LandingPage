@@ -149,7 +149,13 @@ const members = {
         photo: "foto-iyan.jpg",
         wa: "6287882258588",
         rank: 1
-    }
+    },
+    'cmp': {
+        name: "Cecep M. Ramdan",
+        photo: "foto-cmp.jpg",
+        wa: "6285703242966",
+        rank: 0
+    },
 };
 
 const defaultData = {
