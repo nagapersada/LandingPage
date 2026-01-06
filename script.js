@@ -145,7 +145,7 @@ const members = {
         rank: 3
     },
     'iyan': {
-        name: "Akhmad Adiansyah",
+        name: "Iyan",
         photo: "foto-iyan.jpg",
         wa: "6287882258588",
         rank: 1
