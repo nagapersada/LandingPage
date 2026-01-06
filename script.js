@@ -118,7 +118,7 @@ const members = {
         name: "Dodi Supriadi",
         photo: "foto-dodi.jpg",
         wa: "6289512302702",
-        rank: 1
+        rank: 2
     },
     'rio': {
         name: "Rio Pangestu",
@@ -137,6 +137,12 @@ const members = {
         photo: "foto-munthe.jpg",
         wa: "62895340767885",
         rank: 2
+    },
+    'toni': {
+        name: "Toni Rahma Miharja",
+        photo: "foto-toni.jpg",
+        wa: "6287734725828",
+        rank: 3
     },
 };
 
