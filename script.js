@@ -100,7 +100,7 @@ const members = {
         name: "Rizal Januar",
         photo: "foto-jey.jpg",
         wa: "6282218256166",
-        rank: 3 // V.I.P 6 (6 Bintang)
+        rank: 4 // V.I.P 6 (6 Bintang)
     },
     'albar': {
         name: "Albar Arnasty",
