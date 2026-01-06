@@ -95,7 +95,37 @@ const members = {
         photo: "foto-zilla.jpg",
         wa: "6285723419799",
         rank: 1
-    }
+    },
+    'jey': {
+        name: "Rizal Januar",
+        photo: "foto-jey.jpg",
+        wa: "6282218256166",
+        rank: 3 // V.I.P 6 (6 Bintang)
+    },
+    'albar': {
+        name: "Albar Arnasty",
+        photo: "foto-albar.jpg",
+        wa: "6281222436566",
+        rank: 4 // Member Biasa (Tanpa Bintang)
+    },
+    'gilang': {
+        name: "Gilang Giyantine",
+        photo: "foto-gilang.jpg",
+        wa: "6282118989717",
+        rank: 4
+    },
+    'dodi': {
+        name: "Dodi Supriadi",
+        photo: "foto-dodi.jpg",
+        wa: "6289512302702",
+        rank: 1
+    },
+    'rio': {
+        name: "Rio Pangestu",
+        photo: "foto-rio.jpg",
+        wa: "6281214273452",
+        rank: 1
+    },
 };
 
 const defaultData = {
