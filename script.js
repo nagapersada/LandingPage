@@ -174,6 +174,12 @@ const members = {
         wa: "6289621957879",
         rank: 0
     },
+    'ihsan': {
+        name: "Ihsan Saeful",
+        photo: "foto-ihsan.jpg",
+        wa: "6287779930087",
+        rank: 0
+    },
 };
 
 const defaultData = {
