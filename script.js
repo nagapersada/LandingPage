@@ -1,6 +1,7 @@
 // DATABASE MEMBER
 const members = {
     'deka': { name: "Deka Sonjaya", photo: "foto-deka.jpg", wa: "6285524444037", rank: 6 },
+    'gerard': { name: "Gerard J R", photo: "foto-gerard.jpg", wa: "6288976926277", rank: 0 },
     'nuryadi': { name: "Nuryadi", photo: "foto-nuryadi.jpg", wa: "6282130093265", rank: 1 },
     'risti': { name: "Risti Febrianti", photo: "foto-risti.jpg", wa: "6282120905995", rank: 1 },
     'ramandi': { name: "Ramandi Putra", photo: "foto-ramandi.jpg", wa: "6281299908745", rank: 1 },
