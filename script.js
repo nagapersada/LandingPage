@@ -19,7 +19,7 @@ const members = {
     'fakhri': { name: "M. Fakhri Rizki", photo: "foto-fakhri.jpg", wa: "6285524444037", rank: 0 },
     'rexi': { name: "Rexi Gustiawan", photo: "foto-rexi.jpg", wa: "6281218878025", rank: 0 },
     'oki': { name: "Oki Hendrawan", photo: "foto-oki.jpg", wa: "6282115586827", rank: 0 },
-    'anis': { name: "Anis Abiba", photo: "foto-anis.jpg", wa: "6282129169198", rank: 0 },
+    'anis': { name: "Anis Abiba", photo: "foto-anis.jpg", wa: "6282129169199", rank: 0 },
     'silma': { name: "Silma Almaida", photo: "foto-silma.jpg", wa: "6283169949205", rank: 1 },
     'zilla': { name: "Fazrilla NQ", photo: "foto-zilla.jpg", wa: "6285723419799", rank: 1 },
     'jey': { name: "Rizal Januar", photo: "foto-jey.jpg", wa: "6282218256166", rank: 4 },
