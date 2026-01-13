@@ -33,7 +33,7 @@ const members = {
     'gilang': { name: "Gilang Giyantine", photo: "foto-gilang.jpg", wa: "6282118989717", rank: 4 },
     'dodi': { name: "Dodi Supriadi", photo: "foto-dodi.jpg", wa: "6289512302702", rank: 2 },
     'rio': { name: "Rio Pangestu", photo: "foto-rio.jpg", wa: "6281214273452", rank: 1 },
-    'duco': { name: "Dani Ramdani", photo: "foto-duco.jpg", wa: "6285722833526", rank: 1 },
+    'duco': { name: "Dani Ramdani", photo: "foto-duco.jpg", wa: "6285722833526", rank: 2 },
     'munthe': { name: "Pratama Munthe", photo: "foto-munthe.jpg", wa: "62895340767885", rank: 2 },
     'toni': { name: "Toni", photo: "foto-toni.jpg", wa: "6287734725828", rank: 3 },
     'iyan': { name: "Iyan", photo: "foto-iyan.jpg", wa: "6287882258588", rank: 1 },
